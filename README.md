@@ -7,6 +7,10 @@ Personal i3 config
 - conkyrc
 - feh
 - cmus
+## Recommended
+- Ranger
+- w3m
+- screenfetch
 ## Installation
 - Run ``./thisfirst.sh`` as root
 - Run ``./second.sh`` not as root 
