@@ -7,7 +7,9 @@ Personal i3 config
 - feh
 - cmus
 ## Installation
-Just run ``./config.sh``
+- Run ``./thisfirst.sh`` as root
+- Run ``./second.sh`` not as root 
+- Finally run ``./config.sh`` not as root 
 # Screenshot
 ![alt text](img/shot.png "FDSFS")
 # Wallpaper
