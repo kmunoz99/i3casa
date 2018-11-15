@@ -2,6 +2,7 @@
 Personal i3 config
 ## Dependencies
 - i3
+- Compton
 - i3 gaps
 - conkyrc
 - feh
