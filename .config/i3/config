@@ -29,6 +29,9 @@ font pango:Terminus 8
 # font, it doesn’t scale on retina/hidpi displays.
 
 #BACKGROUND
+exec --nostartup-id sudo xrandr --newmode "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
+exec --nostartup-id sudo xrandr --addmode Virtual1 1920x1080_60.00
+exec --nostartup-id sudo xrandr -s 1920x1080_60.00
 exec --no-startup-id feh --bg-scale wall.jpg
 exec --no-startup-id compton --config compton.conf
 exec xset s off
