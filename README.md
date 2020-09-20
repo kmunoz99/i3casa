@@ -12,9 +12,7 @@ Personal i3 config
 - w3m
 - screenfetch
 ## Installation
-- Run ``./thisfirst.sh`` as root
-- Run ``./second.sh`` not as root 
-- Finally run ``./config.sh`` not as root 
+- Run ``./script.sh``
 # Screenshot
 ![alt text](img/shot.png "FDSFS")
 # Wallpaper
